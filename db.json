@@ -1,0 +1,59 @@
+{
+  "productList": [
+    {
+      "productName": "axl",
+      "serie": "B4879",
+      "numero": 2,
+      "ruc": "7789",
+      "mtc": "-",
+      "totalOnerosa": "11.50",
+      "totalGratuita": "20",
+      "enviadoCliente": "NO",
+      "category": "Activo",
+      "freshness": "second new",
+      "price": 5,
+      "coment": "bien",
+      "date": "2022-11-01T05:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Cliente",
+      "serie": "A2487",
+      "numero": 3,
+      "ruc": "78541",
+      "mtc": "-",
+      "totalOnerosa": "11.50",
+      "totalGratuita": "20.00",
+      "enviadoCliente": "NO",
+      "category": "Activo",
+      "date": "2022-11-01T05:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Cliente 1",
+      "serie": "B1254",
+      "numero": 3,
+      "ruc": "75418",
+      "mtc": "-",
+      "totalOnerosa": "11.50",
+      "totalGratuita": "50.00",
+      "enviadoCliente": "NO",
+      "category": "Activo",
+      "freshness": "Brand new",
+      "price": 3,
+      "coment": "Bien",
+      "date": "2022-11-01T05:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
